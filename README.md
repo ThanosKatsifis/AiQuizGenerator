@@ -1,3 +1,4 @@
+<img width="917" height="287" alt="Στιγμιότυπο οθόνης 2026-03-18 180045" src="https://github.com/user-attachments/assets/798d287d-ea63-46f9-8aa5-465ce5b5f513" />
 
 
 # 🧠 SmartyPants AI: The Smartphone Quizzer
